@@ -1,17 +1,17 @@
-# About Me - Vaibhavi Hole
+# About Me - Mhase gayatri
 
 ![Gayatri mhase](https://avatars.githubusercontent.com/u/236081341?v=4)
 
-🌱 I'm a student and beginner developer, currently learning **HTML, CSS, and basic web development**.  
-💻 I enjoy creating simple and clean web pages and exploring new technologies.  
+ I'm a student and beginner developer, currently learning **HTML, CSS, and basic web development**.  
+ I enjoy creating simple and clean web pages and exploring new technologies.  
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Student (B.Sc / Computer-related background)
-- 🌐 Interested in Web Development
-- 📚 Currently learning HTML, CSS & GitHub
-- 🚀 Beginner but passionate to grow and improve skills
+-  Student Bsc(computer science)
+-  Interested in Web Development
+-  Currently learning HTML, CSS & GitHub
+-  Beginner but passionate to grow and improve skills
 
 ---
 
